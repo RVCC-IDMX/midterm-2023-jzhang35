@@ -1,0 +1,33 @@
+body {
+    background-color: #1E90FF;
+}
+
+h1 {
+    font-family:Hind;
+    text-align:center;
+    font-size:30pt;
+}
+
+h4 {
+    font-family:Hind;
+    font-size:20pt;
+}
+
+p, li, footer {
+    font-family:"Libre Baskerville";
+    font-size:13pt;
+}
+
+head, body, footer {
+    display:column;
+    flex-direction:center;
+    border:center;
+}
+
+#gallery {
+    text-align:center;
+}
+
+img {
+    width:500px;
+}
